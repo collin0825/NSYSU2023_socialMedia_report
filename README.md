@@ -1,0 +1,3 @@
+# socialMedia
+report1.ipynb為報告檔
+如果在本機端無法輸出中文圖表請參照助教範例code的教學

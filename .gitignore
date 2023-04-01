@@ -1,0 +1,15 @@
+# 忽略清理完的Data
+raw_data/clean_egg_1201_0312_data.csv
+raw_data/clean_egg_1201_0331_data.csv
+raw_data/entity_table_egg.csv
+raw_data/pos_table_egg.csv
+raw_data/sentence_table_egg.csv
+raw_data/sna_egg_1201_0312.csv
+raw_data/SourceHanSansTW-Regular.otf
+
+dict
+pic
+
+data
+data.zip
+TaipeiSansTCBeta-Regular.ttf
